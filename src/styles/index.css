@@ -1,0 +1,19 @@
+.tekst {
+    display:flex;
+    justify-content: center;
+    font: georgia;
+    font-size: 400;
+}
+
+canvas{
+    background-color: red;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    flex-direction: column;
+}

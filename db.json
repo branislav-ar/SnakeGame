@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "nick": "Nemanja",
+            "record": "525"
+        },
+        {
+            "id": 2,
+            "nick": "Djole",
+            "record": "625"
+        },
+        {
+            "id": 3,
+            "nick": "Nikola",
+            "record": "175"
+        },
+        {
+            "id": 4,
+            "nick": "Luka",
+            "record": "350"
+        }    
+    ]
+}
